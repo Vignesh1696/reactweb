@@ -33,7 +33,7 @@ render(){
 			    />
 			    <Carousel.Caption>
 			      <h3>Marvel</h3>
-			      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+			      <p>marvel is a world largest company.</p>
 			    </Carousel.Caption>
 			  </Carousel.Item>
 			  <Carousel.Item>
@@ -45,7 +45,7 @@ render(){
 
 			    <Carousel.Caption>
 			      <h3>DC</h3>
-			      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			      <p>Dc is a oppenent to  marvel.</p>
 			    </Carousel.Caption>
 			  </Carousel.Item>
 			  <Carousel.Item>
@@ -57,7 +57,7 @@ render(){
 
 			    <Carousel.Caption>
 			      <h3>HollyWood</h3>
-			      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+			      <p>holloywood make powerfull.</p>
 			    </Carousel.Caption>
 			  </Carousel.Item>
 			</Carousel>
