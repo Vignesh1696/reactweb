@@ -12,7 +12,7 @@ render(){
 return(
 	<div>
 	<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-  <Navbar.Brand href="#home">New-Website</Navbar.Brand>
+  <Navbar.Brand href="#home">Pullingo-websites</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
